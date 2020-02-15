@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  applicant: MyText
+  optionaltext: MyText
+  start24: MyString
+  end24: MyString
+  location: MyText
+  locationdesc: MyText
+
+two:
+  applicant: MyText
+  optionaltext: MyText
+  start24: MyString
+  end24: MyString
+  location: MyText
+  locationdesc: MyText
